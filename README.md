@@ -1,4 +1,4 @@
 # signalRBasic
 SignalR Basic
 
-SignalR basic chat
+SignalR basic chat feature using razor pages
